@@ -1,4 +1,4 @@
-# AI-Playbook
+# AI - Playbook
 
 ## Production URL
 The latest non-dev version of this app is running at [Live AI Playground](http://aiplaybook.a16z.com/).
